@@ -13,3 +13,7 @@ p.author {
 .important {
   color: red;
 }
+
+li {
+  list-style: none;
+}
